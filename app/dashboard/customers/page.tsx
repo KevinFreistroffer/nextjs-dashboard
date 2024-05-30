@@ -1,6 +1,6 @@
 import React from 'react';
 
-const CustomersPage = (): JSX.Element => {
+const Page = (): JSX.Element => {
   return (
     <div>
       <h1>Customers Page</h1>
@@ -9,4 +9,4 @@ const CustomersPage = (): JSX.Element => {
   );
 };
 
-export default CustomersPage;
+export default Page;

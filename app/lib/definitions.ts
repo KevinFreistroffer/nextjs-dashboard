@@ -7,6 +7,7 @@ export type User = {
   name: string;
   email: string;
   password: string;
+  auth_level: 0 | 1;
 };
 
 export type Customer = {
